@@ -4,4 +4,9 @@ version = "0.0.1"
 authors = ["Fedcomp"]
 edition = "2018"
 
+[[bin]]
+name = "server"
+path = "bin/server.rs"
+
 [dependencies]
+bevy = "0.4.0"
