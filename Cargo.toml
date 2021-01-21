@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    "bevy_connections"
+    "bevy_connections",
+    "examples/*"
 ]
